@@ -31,6 +31,7 @@
 //}
 
 .content-wrapper {
+  min-height: unset !important;
   background: none !important;
   p {
     text-align: justify;
